@@ -13,7 +13,6 @@ I worked in clinical settings using EHR and practice-management systems, where a
 - Relational schema with four linked tables, foreign keys, and `CHECK` constraints
 - Synthetic data generator (reproducible via a fixed random seed)
 - Six SQL reports:
-   - Six SQL reports:
   - **Upcoming appointments**, optionally filtered by provider
   - **Overdue follow-ups**: patients whose follow-up deadline passed with no later appointment booked
   - **No-show rate by provider**
